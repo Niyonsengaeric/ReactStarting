@@ -8,8 +8,6 @@ This Repository is for learning React.
 
 # **Technonlogies**
 
-- **Express JS** - API development framework
-
 - **Node** - run time environment for JavaScript
 - **Eslint** - code analysis tool for identifying problematic patterns found in JavaScript code
 
