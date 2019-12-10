@@ -26,6 +26,13 @@ This Repository is for learning React.
     - npm install (to install required dependencies)
     - npm start (to start the development server)
 
-# **Author**
+## Contributors
 
-## **NIYONSENGA ERIC**
+- Niyonsenga Eric <niyeric11@gmail.com>
+
+## License & copyright
+
+&copy; Niyonsenga Eric, Software Developer
+
+Licensed under the [MIT license](LICENSE). 
+
