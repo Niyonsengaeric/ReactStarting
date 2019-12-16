@@ -2,3 +2,16 @@
   text-align: center;
 }
 
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* @media(min-width:500px) {
+  .person {
+    width: 450px;
+  }
+} */
