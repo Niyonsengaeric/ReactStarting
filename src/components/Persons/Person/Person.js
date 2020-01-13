@@ -13,7 +13,6 @@ class Person extends Component {
   }
   static contextType = AuthContext;
   componentDidMount() {
-    // document.querySelector('input').focus();
     this.inputElementRef.current.focus();
     console.log(this.context.authenticated);
   }
